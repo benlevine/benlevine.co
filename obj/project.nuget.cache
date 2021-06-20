@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qctuYxgn8BNDM3Se1Py89OwU67wnga46oFRKb76ruRmw/0T0c2AgWLQOKW/mz6gvEDIJZ5XpiBs0aGdqZ0a3jg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\benle\\source\\repos\\benlevine.co\\benlevine-co.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\benle\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
